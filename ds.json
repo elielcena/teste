@@ -1,0 +1,23 @@
+[
+    {
+        "datasource": "integradora-ds-1",
+        "listaCnpj": [
+            "80431098000170",
+            "50877494000165",
+        ]
+    },
+    {
+        "datasource": "integradora-ds-2",
+        "listaCnpj": [
+            "83524104000122",
+            "05357393000109"
+        ]
+    },
+    {
+        "datasource": "integradora-ds-3",
+        "listaCnpj": [
+            "31658457000111",
+            "84193566000177"
+        ]
+    }
+]
